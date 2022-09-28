@@ -32,12 +32,18 @@
 
 【9】[8个鲜为人知但很实用的Web API](https://github.com/CUGGZ/FeCharge/issues/28)
 
+【10】[你需要知道的ES6—ES13开发技巧！](https://github.com/CUGGZ/FeCharge/issues/39)
+
 
 ## TypeScript
 
 【1】[一文读懂TypeScript类型兼容性](https://github.com/CUGGZ/FeCharge/issues/22)
 
 【2】[你需要知道的TypeScript高级类型](https://github.com/CUGGZ/FeCharge/issues/30)
+
+【3】[掌握 TypeScript 中的映射类型](https://github.com/CUGGZ/FeCharge/issues/32)
+
+【4】[如何提高 TypeScript 的代码质量？](https://github.com/CUGGZ/FeCharge/issues/34)
 
 
 ## React
@@ -51,6 +57,10 @@
 【1】[Chrome DevTools中的现代Web调试](https://github.com/CUGGZ/FeCharge/issues/17)
 
 【2】[图解浏览器渲染原理及流程](https://github.com/CUGGZ/FeCharge/issues/18)
+
+【3】[@container 和 :has()：两个强大功能登陆 Chrome](https://github.com/CUGGZ/FeCharge/issues/31)
+
+【4】[超实用的Chrome DevTools调试技巧！](https://github.com/CUGGZ/FeCharge/issues/37)
 
 ## 前端宝藏
 
@@ -72,12 +82,22 @@
 
 【9】[盘点12个 yyds 的低代码开源项目](https://github.com/CUGGZ/FeCharge/issues/28)
 
+【10】[2022年值得推荐的React库！](https://github.com/CUGGZ/FeCharge/issues/33)
+
+【11】[开箱即用的中后台管理模版](https://github.com/CUGGZ/FeCharge/issues/35)
+
+【12】[简单好用的前端拖拽排序库](https://github.com/CUGGZ/FeCharge/issues/38)
+
+【13】[2022 年值得推荐的 Vue 库！](https://github.com/CUGGZ/FeCharge/issues/41)
+
 
 ## 前端动态
 
-【1】[第92次TC39会议举行，这些提案取得新进展！](https://github.com/CUGGZ/FeCharge/issues/9)
+【1】[第91次TC39会议举行，这还是我认识的JS吗？](https://github.com/CUGGZ/FeCharge/issues/40)
 
-【2】[Deno 即将发生重大变化！](https://github.com/CUGGZ/FeCharge/issues/26)
+【2】[第92次TC39会议举行，这些提案取得新进展！](https://github.com/CUGGZ/FeCharge/issues/9)
+
+【3】[Deno 即将发生重大变化！](https://github.com/CUGGZ/FeCharge/issues/26)
 
 ## 其他
 
