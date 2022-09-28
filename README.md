@@ -1,2 +1,6 @@
-# FeCharge
-前端进阶必备，HTML、CSS、JavaScript、TypeScript、Vue、React、Webpack、Vite 等学习教程
+# 前端充电宝
+
+
+## JavaScript
+
+【1】[谈谈JS二进制：File、Blob、FileReader、ArrayBuffer、Base64](https://github.com/CUGGZ/FeCharge/issues/1)
