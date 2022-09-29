@@ -1,18 +1,22 @@
 # 前端充电宝
 
-## HTML
+## 系列文章
+
+### HTML
 
 【1】[鲜为人知但很有用的 HTML 属性](https://github.com/CUGGZ/FeCharge/issues/21)
 
 
-## CSS
+### CSS
 
 【1】[一文读懂 CSS 单位](https://github.com/CUGGZ/FeCharge/issues/8)
 
 【2】[10分钟彻底掌握 CSS Flex 布局](https://github.com/CUGGZ/FeCharge/issues/20)
 
+【3】[漫谈 CSS 方法论](https://github.com/CUGGZ/FeCharge/issues/50)
 
-## JavaScript
+
+### JavaScript
 
 【1】[谈谈JS二进制：File、Blob、FileReader、ArrayBuffer、Base64](https://github.com/CUGGZ/FeCharge/issues/1)
 
@@ -34,25 +38,34 @@
 
 【10】[你需要知道的ES6—ES13开发技巧！](https://github.com/CUGGZ/FeCharge/issues/39)
 
+【11】[JavaScript 条件语句优化小技巧](https://github.com/CUGGZ/FeCharge/issues/48)
 
-## TypeScript
+
+### TypeScript
 
 【1】[一文读懂TypeScript类型兼容性](https://github.com/CUGGZ/FeCharge/issues/22)
 
 【2】[你需要知道的TypeScript高级类型](https://github.com/CUGGZ/FeCharge/issues/30)
 
-【3】[掌握 TypeScript 中的映射类型](https://github.com/CUGGZ/FeCharge/issues/32)
+【3】[掌握TypeScript中的映射类型](https://github.com/CUGGZ/FeCharge/issues/32)
 
-【4】[如何提高 TypeScript 的代码质量？](https://github.com/CUGGZ/FeCharge/issues/34)
+【4】[如何提高TypeScript的代码质量？](https://github.com/CUGGZ/FeCharge/issues/34)
+
+【5】[一文读懂TypeScript泛型及应用](https://github.com/CUGGZ/FeCharge/issues/55)
 
 
-## React
+### React
 
 【1】[React Router v6 完全指南](https://github.com/CUGGZ/FeCharge/issues/11)
 
 【2】[使用 TypeScript 编写 React 的最佳实践！](https://github.com/CUGGZ/FeCharge/issues/24)
 
-## 浏览器
+【3】[如何使用 React Hooks 重构类组件？](https://github.com/CUGGZ/FeCharge/issues/42)
+
+【4】[如何在React中应用SOLID原则？](https://github.com/CUGGZ/FeCharge/issues/43)
+
+
+### 浏览器
 
 【1】[Chrome DevTools中的现代Web调试](https://github.com/CUGGZ/FeCharge/issues/17)
 
@@ -62,7 +75,7 @@
 
 【4】[超实用的Chrome DevTools调试技巧！](https://github.com/CUGGZ/FeCharge/issues/37)
 
-## 前端宝藏
+### 前端宝藏
 
 【1】[推荐12个开源的跨平台桌面项目](https://github.com/CUGGZ/FeCharge/issues/6)
 
@@ -90,8 +103,20 @@
 
 【13】[2022 年值得推荐的 Vue 库！](https://github.com/CUGGZ/FeCharge/issues/41)
 
+【14】[前端开发必备的文件处理库！](https://github.com/CUGGZ/FeCharge/issues/44)
 
-## 前端动态
+【15】[盘点 10 个 GitHub 上的前端高仿项目](https://github.com/CUGGZ/FeCharge/issues/47)
+
+【16】[有了这些神器，随时随地获取最新技术前沿!](https://github.com/CUGGZ/FeCharge/issues/49)
+
+【17】[效率宝典：10个超实用的React Hooks库](https://github.com/CUGGZ/FeCharge/issues/52)
+
+【18】[Github上8个很棒的Vue项目](https://github.com/CUGGZ/FeCharge/issues/54)
+
+【19】[Github上8个很棒的React项目](https://github.com/CUGGZ/FeCharge/issues/56)
+
+
+### 前端动态
 
 【1】[第91次TC39会议举行，这还是我认识的JS吗？](https://github.com/CUGGZ/FeCharge/issues/40)
 
@@ -99,8 +124,20 @@
 
 【3】[Deno 即将发生重大变化！](https://github.com/CUGGZ/FeCharge/issues/26)
 
-## 其他
+【4】[2022 年 Vue 的发展如何？](https://github.com/CUGGZ/FeCharge/issues/45)
+
+【5】[ECMAScript 2022 正式发布，有哪些新特性？](https://github.com/CUGGZ/FeCharge/issues/51)
+
+### 其他
 
 【1】[你可能不知道的 npm 实用技巧](https://github.com/CUGGZ/FeCharge/issues/7)
 
+【2】[你需要知道的 19 个 console 实用调试技巧！](https://github.com/CUGGZ/FeCharge/issues/46)
 
+【3】[学习 Git，看这一篇就够了！](https://github.com/CUGGZ/FeCharge/issues/53)
+
+
+## 联系我
+
+
+<img src="https://user-images.githubusercontent.com/114599246/192952310-ecd2a641-69d6-4f79-9d12-54172ccbc42e.png" width="600" alt="微信小程序"/>
